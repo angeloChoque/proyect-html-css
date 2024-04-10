@@ -1,0 +1,5 @@
+.carousel-item img{
+    object-fit: contain;
+    max-height: 25rem;    
+}
+
